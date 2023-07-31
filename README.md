@@ -102,33 +102,6 @@ width="30%">
 
 
 
-<!-- Belarus - My Home-->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
-}
-
-```
-
 
 
 
@@ -154,7 +127,7 @@ counting of visitors to this page in this section started from Jun 31, 2023
 
 
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
+counting of visitors to this page in this section started from July 32, 2023
 
 ![](https://count.getloli.com/get/@fredfcx.github.readme)
 </br>
@@ -171,8 +144,7 @@ Would you ike to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
+ 
 ---
 
 ![](assets/Bottom_down.svg)
