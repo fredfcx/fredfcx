@@ -2,12 +2,12 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/fredfcx/fredfcx"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-<!--     <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a> -->
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+<!--     <a href="https://github.com/fredfcx/fredfcx/graphs/contributors"><img src="https://img.shields.io/github/contributors/fredfcx/fredfcx?color=blue"></a>
+    <a href="https://github.com/fredfcx/fredfcx/stargazers"><img src="https://img.shields.io/github/stars/fredfcx/fredfcx.svg?logo=github"></a> -->
+    <a href="https://github.com/fredfcx/fredfcx/network/members"><img src="https://img.shields.io/github/forks/fredfcx/fredfcx.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=fredfcx.fredfcx" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C858&width=435&lines=Hi+there%F0%9F%91%8B%2C+I+am+Fred+Fei.;Welcome+to+My+Profile!;Programming+over+2.5+years%F0%9F%90%94%F0%9F%8F%80.;Always+like+learn+and+Fork+new+things%F0%9F%93%96!;Search+me+on+Bilibili+%22NetherStar%22%F0%9F%93%BA!)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
