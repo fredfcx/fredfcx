@@ -140,7 +140,7 @@ width="30%">
 <img src="https://profile-counter.glitch.me/fredfcx/count.svg">  
 
 counting of visitors to this page in this section started from Jun 31, 2023
-<br><a href="https://info.flagcounter.com/hF2X"><img src="https://s01.flagcounter.com/count2/hF2X/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+<br><a href="http://s01.flagcounter.com/more/pS5"><img src="https://s01.flagcounter.com/count2/pS5/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
 ## Star History
 
