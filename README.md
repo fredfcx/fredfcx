@@ -54,7 +54,11 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--   grid-snake -->
-![](https://github.com/fredfcx/fredfcx/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fredfcx/fredfcx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fredfcx/fredfcx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fredfcx/fredfcx/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--   skyline 
 <a href="https://skyline.github.com/fredfcx/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
