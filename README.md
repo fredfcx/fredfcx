@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C858&width=435&lines=Hi+there%F0%9F%91%8B%2C+I+am+Fred+Fei.;Welcome+to+My+Profile!;Programming+over+2.5+years%F0%9F%90%94%F0%9F%8F%80.;Always+like+learn+and+Fork+new+things%F0%9F%93%96!;Search+me+on+Bilibili+%22NetherStar%22%F0%9F%93%BA!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C858&width=435&lines=Hi+there%F0%9F%91%8B%2C+I+am+Fred+Fei.;Welcome+to+My+Profile!;Programming+over+2.5+years%F0%9F%90%94%F0%9F%8F%80.;Always+like+learn+and+Fork+new+things%F0%9F%93%96!;Search+me+on+Bilibili+%22NetherStar_o%22%F0%9F%93%BA!)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
