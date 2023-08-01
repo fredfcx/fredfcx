@@ -1,3 +1,5 @@
+Languange(语言)：[English](/fredfcx/fredfcx/blob/main/README.cn.md) / [中文](#)
+
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
