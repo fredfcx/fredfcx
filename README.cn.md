@@ -4,12 +4,12 @@ Languange(语言)：[English](/README.md) / [中文](#)
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/fredfcx/fredfcx"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/fredfcx/fredfcx"><img src="https://img.shields.io/badge/状态-更新中-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
 <!--     <a href="https://github.com/fredfcx/fredfcx/graphs/contributors"><img src="https://img.shields.io/github/contributors/fredfcx/fredfcx?color=blue"></a>
     <a href="https://github.com/fredfcx/fredfcx/stargazers"><img src="https://img.shields.io/github/stars/fredfcx/fredfcx.svg?logo=github"></a> -->
     <a href="https://github.com/fredfcx/fredfcx/network/members"><img src="https://img.shields.io/github/forks/fredfcx/fredfcx.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=fredfcx.fredfcx" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=fredfcx.fredfcx" alt="浏览过的人"/>   
 </p>
 
 <!--   my-header-img -->
