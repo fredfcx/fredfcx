@@ -1,4 +1,4 @@
-Languange(语言)：[English](/README.cn.md) / [中文](#)
+Languange(语言)：[English](/README.md) / [中文](#)
 
 ![](assets/Bottom_up.svg)
 
